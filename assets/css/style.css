@@ -1,0 +1,22 @@
+/*Universal CSS classes*/
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h2 {
+	color: crimson;
+	text-align: center
+	
+}
+p {
+	color: crimson(0, 0, 0);
+	font-weight: bolder;
+	text-align: center;
+}
+
+.btn-lg {
+	text-align: center;
+}
+
